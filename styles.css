@@ -1,0 +1,231 @@
+*{
+	margin: 0px; 
+	padding: 0px;
+}
+
+body{
+	background-color: white;
+}
+
+#inicio{
+	background-color: white;
+	margin-left: 25%;
+	margin-top: 0%;
+	margin-right: 30%;
+	/*text-transform: ;*/
+}
+
+
+	.fp{
+		width: 45px;
+		height: 45px;
+		margin-top: 15px;
+		cursor:pointer;
+	}
+
+	.textarea{
+		width: 80%;
+		height: 50px;
+		
+	}
+
+	.ft{
+		width: 20px;
+		height: 20px;
+		margin-left: 10px;
+		cursor:pointer;
+		
+	}
+
+	.ftFirst{
+		width: 20px;
+		height: 20px;
+		margin-left: 50px !important;
+		cursor:pointer;
+
+	}
+
+	.bt{
+		width: 15%;
+		height: 30px;
+		background-color: #2ECCFA;
+		color: white;
+		cursor:pointer;
+		margin-left: 45%;
+	}
+
+#contenedor{
+
+	width: 25%;
+	height: 100px;
+	margin-top: -46.2%;
+	position: absolute;
+}
+
+		.logg{
+		width: 40px;
+		height: 40px;
+		margin-top: 15px;
+		margin-left: 20%;
+		cursor:pointer;	
+		position: absolute;
+		}
+
+	
+#menu{
+		
+		margin-left: 10px;
+		margin-top: -550px;
+		padding-right: 5px;
+		position: absolute;
+		cursor: pointer;
+		/*text-transform: ;*/
+}
+		
+		.llF{
+			width: 35px;
+			height: 35px;
+			padding-top: 5px !important;
+			margin-top: 15px;
+			margin-bottom: -8px;
+			cursor: pointer;
+		}
+
+		.ll{
+			width: 35px;
+			height: 35px;
+			padding-top: 10px;
+			margin-top: 15px;
+			margin-bottom: -8px;
+			cursor: pointer;
+		}
+
+		.boto{
+				margin-left: 35%;
+				margin-top: 30%;
+				width: 70%;
+				height: 35px;
+				background-color: #2ECCFA;
+				color: white;
+				cursor:pointer;
+				box-sizing: border-box;
+}
+
+#bot{
+		margin-left: 30%;
+		width: 70%;
+		height: 35px;
+		background-color: #2ECCFA;
+		color: white;
+		cursor:pointer;
+	}
+
+
+#twt{
+		/*background-color: lightgreen;*/
+		margin-left: 25%;
+		margin-right: 30%;
+		margin-top: 10px;
+		/*text-transform: ;*/
+	}
+
+		.imgtwt{
+			width: 45px;
+			height: 45px;
+			margin-top: 5px;
+			cursor:pointer;
+			border-radius: 50%;
+			position: relative;
+			float: left;
+		}
+
+
+		.twtu{
+			position: relative;
+			float: center;
+			margin-left: 60px;
+			padding-top: 10px;
+		}
+
+		.klk{
+			position: relative;
+			float: center;
+			padding-left: 20px;
+			padding-right: 20px;
+			margin-left: 60px;
+			margin-right: -50px;
+			width: 15px;
+			height: 15px;
+			cursor: pointer;
+		}
+
+
+
+#twt2{
+/*	background-color: lightblue;*/
+	margin-left: 25%;
+	margin-right: 30%;
+	/*text-transform: ;*/
+}
+		.gif{
+			padding-left: 20px;
+			position: relative;
+			width: 300px;
+			height: 300px;
+		}
+
+
+
+
+
+#final{
+	margin-left: 73%;
+	margin-right: 3%;
+	margin-top: -45%;
+	position: absolute;
+}
+
+		.text2{
+		width: 80%;
+		height: 25px;
+		}
+
+
+#i{
+	width: 20px;
+	height: 20px;
+	margin-bottom: 30%;
+	}
+
+		.asd{
+			position:absolute;
+			float: left;
+			padding-top: 10px;
+			cursor:pointer;
+			/*text-transform: ;*/
+		}
+
+
+		#i>.imgss{
+	width: 200px;
+	height: 100px;
+	margin-top: 30px;
+	cursor:pointer;
+		}
+
+		#i>.imgss2{
+	width: 200px;
+	height: 100px;
+	margin-top: 30px;
+	cursor:pointer;
+		}
+
+		#i>.imgss3{
+	width: 200px;
+	cursor:pointer;
+	height: 100px;
+	margin-top: 30px;
+		}
+
+
+
